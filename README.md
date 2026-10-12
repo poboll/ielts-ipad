@@ -15,7 +15,7 @@
 
 ## 下载与安装
 
-从本仓库的 **Releases** 下载 `九分学长雅思-iPad自用版-双向横屏.ipa`。仓库为 Private，需使用获授权的 GitHub 账号登录后访问。此 IPA 未使用开发者证书签名，不是 App Store / TestFlight 安装包；安装方式取决于设备系统版本和用户可用的侧载环境，请自行确认兼容性。
+从本仓库的 [**Releases**](https://github.com/poboll/ielts-ipad/releases) 下载 `ielts-ipad-v1.0.0-landscape.ipa`。仓库为 Private，需使用获授权的 GitHub 账号登录后访问。此 IPA 未使用开发者证书签名，不是 App Store / TestFlight 安装包；安装方式取决于设备系统版本和用户可用的侧载环境，请自行确认兼容性。
 
 ## 验收截图
 
